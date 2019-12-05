@@ -1,3 +1,3 @@
-def get_city_weather(city):
+def get_weather_of(city):
 
-print("XMM")
+print("XMM. neh. I prefer XDD")
